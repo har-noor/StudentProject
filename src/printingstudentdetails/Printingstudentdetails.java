@@ -38,6 +38,7 @@ public class Printingstudentdetails {
         for (int i=0; i < list.length; )
             
             System.out.println(list[i].getName() + " " + list[i].getAge());
+            System.out.println("Learn github operations");
         }
         
         
